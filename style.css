@@ -1,0 +1,40 @@
+body{
+
+}
+
+.jumbotron{
+	background-color: #FDCBC1 !important;
+	border-radius: 30px !important;
+	margin-top: 50px !important;
+
+}
+
+
+
+.heading{
+	text-align: center;
+	font-family: monospace;	
+}
+
+
+h1{
+	text-transform: uppercase !important;
+	font-size: 50px !important;
+}
+
+#secondContainer{
+	padding: 40px 20px 40px 20px ;
+	font-size: 24px;
+  
+}
+
+#thirdContainer{
+	font-size: 18px;
+
+}
+.quotes{
+	text-align: center !important;
+	font-style: italic !important;
+}
+
+
